@@ -4,6 +4,8 @@
 
 Fab:UNIverse hat keinen zentralen "Kopf". Bitte wende Dich an die Organisator\*Innen des jeweiligen Jahres. 
 
+Es gibt außerdem die E-Mail-Adresse [info@fab-universe.de](mailto:info@fab-universe.de), die üblicherweise an die Organisator\*Innen des jeweiligen Jahres weitergeleitet wird.
+
 
 ## Discourse
 
