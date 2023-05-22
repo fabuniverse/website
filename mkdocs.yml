@@ -1,0 +1,76 @@
+site_name: 'Fab:UNIverse'
+
+#site_description: 'todo'
+
+repo_url: https://github.com/oliverstickel/fabuniverse/
+repo_name: Quellcode auf GitHub
+edit_uri: ""
+
+theme: 
+  name: material
+  language: de
+  icon:
+    logo: 'fontawesome/solid/users-gear'
+  palette:
+    primary: 'black'
+    accent: 'red'
+  font:
+    text: 'Rubik'    
+  features:
+    - toc.follow
+    - navigation.top
+    - navigation.instant    
+    - toc.integrate  
+    - search.suggest 
+    - search.highlight
+    - navigation.tracking      
+    - announce.dismiss
+
+nav:
+    - Was ist Fab:UNIverse?: 'index.md'
+    - 2023 - Bochum: '2023.md'
+    - 2022 - Halle: '2022.md'
+    - 2021 - Luckenwalde/hybrid: '2021.md'
+    - 2020 - Stuttgart/hybrid: '2020.md'
+    - 2019 - Berlin: '2019.md'
+    - 2018 - Siegen: '2018.md'
+    - 2017 - Wildau: '2017.md'
+    - Regionalgruppen: 'regional.md'
+    - Zu Fab:UNIverse beitragen: 'beitragen.md'
+    - Links: 'links.md'
+    - Kontakt: 'kontakt.md'    
+    - Forum (intern): 'https://discourse.fab-universe.de'    
+
+markdown_extensions:
+  - meta
+  - toc:
+  #    permalink: true
+      toc_depth: 3
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true 
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg  
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences   
+  - pymdownx.critic    
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde  
+  - footnotes
+  - attr_list
+
+plugins:
+#  - search
+  - glightbox
+
+copyright: <a href="https://www.ruhr-uni-bochum.de/de/impressum">Impressum</a>
+
+extra_css:
+  - 'stylesheets/extra.css'
+

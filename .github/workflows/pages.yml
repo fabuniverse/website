@@ -1,0 +1,21 @@
+name: build-mkdocs
+on:
+  push:
+    branches:
+      - main
+      - master
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v3
+      - name: build
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.x
+      - run: pip install \
+          mkdocs \
+          mkdocs-material \
+          mkdocs-glightbox
+      - run: mkdocs gh-deploy --force
