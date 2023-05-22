@@ -18,4 +18,4 @@ jobs:
           mkdocs \
           mkdocs-material \
           mkdocs-glightbox
-      - run: mkdocs gh-deploy
+      - run: mkdocs gh-deploy --force
