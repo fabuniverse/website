@@ -10,8 +10,8 @@ jobs:
     steps:
       - name: checkout
         uses: actions/checkout@v3
-          with:
-            fetch-depth: 0        
+        with:
+          fetch-depth: 0        
       - name: build
         uses: actions/setup-python@v4
         with:
