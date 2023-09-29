@@ -15,5 +15,5 @@ Neue Mitglieder sind willkommen, müssen aber einen Bezug zu Fab:UNIverse haben 
 
 ## Kontakt zur Website
 
-Bitte zu technischen Themen oder für Beiträge auf der Website bestenfalls [Issue / Pull Request auf Github](https://github.com/oliverstickel/fabuniverse/issues) erzeugen.  
-Alternativ [Oliver Stickel](https://einrichtungen.ruhr-uni-bochum.de/de/oliver-stickel) oder [Tasso Mulzer](https://www.bht-berlin.de/people/detail/1487) anschreiben. 
+Bitte zu technischen Themen oder für Beiträge auf der Website bestenfalls [Issue / Pull Request auf Github](https://github.com/fab-universe/website) erzeugen.  
+Alternativ [Oliver Stickel](www.oliverstickel.de) oder [Tasso Mulzer](https://www.bht-berlin.de/people/detail/1487) anschreiben. 
