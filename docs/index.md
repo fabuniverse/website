@@ -1,6 +1,6 @@
 # Was ist Fab:UNIverse?
 
-- Fab:UNIverse ist eine Community und eine Tagung für diejenigen, die im deutschsprachigen Raum an Hochschulen Fab Labs, Makerspaces, offene Werkstätten und ähnliche Orte betreiben oder betreiben wollen. 
+- Fab:UNIverse ist eine Community und eine Tagung für diejenigen, die im deutschsprachigen Raum an Hochschulen Fab Labs, Makerspaces, Offene Werkstätten und ähnliche Orte betreiben oder betreiben wollen. 
 
 - Fab:UNIverse ist *bottom-up* aus dem Wunsch nach Austausch entstanden und wird ehrenamtlich organisiert.
 
