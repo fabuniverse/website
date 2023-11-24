@@ -4,7 +4,7 @@ site_description: 'Fab:UNIverse ist eine Community und eine Tagung für diejenig
 
 repo_url: https://github.com/fab-universe/website/
 repo_name: Quellcode auf GitHub
-edit_uri: ""
+edit_uri: "https://github.com/fab-universe/website/edit/main/docs/"
 
 theme: 
   name: material
