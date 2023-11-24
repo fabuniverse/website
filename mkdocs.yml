@@ -38,7 +38,8 @@ nav:
     - Zu Fab:UNIverse beitragen: 'beitragen.md'
     - Links: 'links.md'
     - Kontakt: 'kontakt.md'    
-    - Forum (intern): 'https://discourse.fab-universe.de'    
+    - Forum (intern): 'https://discourse.fab-universe.de'
+    - Test: 'testseite.md'
 
 markdown_extensions:
   - meta
