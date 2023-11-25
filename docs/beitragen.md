@@ -20,8 +20,10 @@ Der Austragungsort fürs nächste Jahr wird meist auf der jeweils diesjährigen 
 
 ## Zur Website beitragen
 
-- Diese Website[ wird auf Github entwickelt und auch von dort gehostet](https://github.com/oliverstickel/fabuniverse/)
-- Beiträge zur Website sind als Pull Requests jederzeit willkommen
+- Diese Website [wird auf Github entwickelt und auch von dort gehostet](https://github.com/fabuniverse/website)
+- In der dortigen [Readme-Datei](https://github.com/fabuniverse/website/blob/main/README.md) gibt es mehr Informationen zum Arbeiten mit der Seite
+- Beiträge zur Website sind als Pull Requests jederzeit willkommen, die dann von uns getestet und veröffentlicht werden. 
+- Aktive Community-Mitglieder können auf Anfrage auch gern mehr Rechte auf Github bekommen, um unmittelbar wirksame Änderungen selbst veröffentlichen zu können.
 - Die Domain wird freundlicherweise aus der Community bereitgestellt - danke!
 
 ## An der Verstetigung des Netzwerks arbeiten
