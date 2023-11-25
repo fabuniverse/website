@@ -2,7 +2,7 @@
 
 In diesem Repository wird die Website zu Fab:UNIverse gepflegt. Fab:UNIverse ist eine Tagung für diejenigen, die im deutschsprachigen Raum an Hochschulen Fab Labs, Makerspaces, offene Werkstätten und ähnliche Orte betreiben oder betreiben wollen.  
 
-- Der Content der Website wird unter [/docs](https://github.com/fab-universe/website/tree/main/docs) geschrieben. 
+- Der Content der Website wird unter [/docs](https://github.com/fabuniverse/website/tree/main/docs) geschrieben. 
 - Die Website wird mit [MkDocs](https://www.mkdocs.org/) erzeugt
 - [MkDocs-Material](https://squidfunk.github.io/mkdocs-material/) wird als Theme eingesetzt
 - Wir nutzen bei Bedarf [MkDocs-Plugins](https://www.mkdocs.org/dev-guide/plugins/) zur Erweiterung. Im Moment verwenden wir nur [mkdocs-glightbox](https://blueswen.github.io/mkdocs-glightbox/) 
@@ -11,7 +11,7 @@ In diesem Repository wird die Website zu Fab:UNIverse gepflegt. Fab:UNIverse ist
 
 ## Infos und How-to zum Arbeiten mit der Website
 
-Wer etwas an der Website ändern möchte, kann einfach auf der veröffentlichten [Website][https://fab-universe.de] auf den "Edit-Button" klicken, der sich auf jeder (Unter-)Seite oben rechts befindet. Alternativ kann man natürlich auch direkt in der Ordnerstruktur des Repositories die jeweilige Markdown-Datei unter /docs editieren. 
+Wer etwas an der Website ändern möchte, kann einfach auf der veröffentlichten [Website](https://fab-universe.de) auf den "Edit-Button" drücken, der sich auf jeder Seite oben rechts befindet. Alternativ kann man auch direkt in der Ordnerstruktur des Git-Repositories die jeweilige Markdown-Datei unter [/docs](https://github.com/fabuniverse/website/tree/main/docs) bearbeiten. 
 
 ### Ordnerstruktur der Website
 
