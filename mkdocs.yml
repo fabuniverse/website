@@ -24,6 +24,7 @@ theme:
     - search.highlight
     - navigation.tracking      
     - announce.dismiss
+    - content.action.edit    
 
 nav:
     - Was ist Fab:UNIverse?: 'index.md'
