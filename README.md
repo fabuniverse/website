@@ -52,7 +52,7 @@ Mkdocs und seine diversen Plugins (wie [MkDocs-Material](https://squidfunk.githu
 
 Markdown ist eine vereinfachte Auszeichnungssprache, die es ermöglicht, Texte mit einfacher Syntax zu formatieren. Entwickelt wurde sie, um die Lesbarkeit zu maximieren und gleichzeitig zu ermöglichen, dass der Text als HTML veröffentlicht werden kann. 
 
-Übrigens lässt sich Markdown mit Tools wie [Pandoc](https://pandoc.org) auch leicht in LaTeX, Word, PDF, Powerpoint und diverse andere Sprachen / Formate übersetzen. Alternativen zu Pandoc mit etwas mehr grafischem Interface sind z.B. [PandocGUI](https://github.com/Ombrelin/pandoc-gui) oder [Marked](https://marked2app.com/). Kombiniert man dann noch z.B. LaTeX mit [Github Actions](https://github.com/features/actions), lassen sich völlig automatisiert und kostenfrei in der Cloud aus ein und demselben Markdown-Quelldokument nicht nur Websites wie unsere Fab:UNIverse-Seite erzeugen, sondern auch PDFs, Skripte, Word-Dokumente und vieles mehr erzeugen und veröffentlichen. 
+Übrigens lässt sich Markdown mit Tools wie [Pandoc](https://pandoc.org) auch leicht in LaTeX, Word, PDF, Powerpoint und diverse andere Sprachen / Formate übersetzen. Alternativen zu Pandoc mit etwas mehr grafischem Interface sind z.B. [PandocGUI](https://github.com/Ombrelin/pandoc-gui) oder [Marked](https://marked2app.com/). Kombiniert man dann noch z.B. LaTeX mit [Github Actions](https://github.com/features/actions), lassen sich völlig automatisiert und kostenfrei in der Cloud aus ein und demselben Markdown-Quelldokument nicht nur Websites wie unsere Fab:UNIverse-Seite erzeugen und veröffentlichen, sondern auch PDFs, Skripte, Word-Dokumente und vieles mehr.
 
 #### Markdown-Beispiele
 
