@@ -12,7 +12,7 @@ Sei gern als Teilnehmer\*In bei der nächsten Ausgabe von Fab:UNIverse dabei! Wi
 
 Du kannst auch [online in unserem Forum Teil der Community sein](https://discourse.fab-universe.de/login).
 
-## Gastgeber sein
+## Gastgeber\*In sein
 
 Du warst schonmal bei Fab:UNIverse dabei und möchtest das Event gern bei Dir ausrichten? Aber gerne doch! Es ist ausdrücklich erwünscht, dass der Standort wechselt um möglichst viele spannende Spaces zu sehen und alle bei der Anreise in gleichem Maße zu benachteiligen. ;-) 
 
