@@ -11,6 +11,7 @@ theme:
   language: de
   icon:
     logo: 'fontawesome/solid/users-gear'
+    edit: material/pencil 
   palette:
     primary: 'black'
     accent: 'red'
