@@ -15,6 +15,7 @@
 - Auch auf den [FabLearn-Konferenzen](https://fablearn.org/) sind zuweilen Fab:UNIverse-Menschen anzutreffen
 - Es gibt verschieden **Karten**, auf denen man Makerspaces, Fab Labs und ähnliche Orte finden kann:
 	- [Karte von fablabs.io](https://www.fablabs.io/labs/map)
+	- [Karte offener Werkstätten des VOW](https://www.offene-werkstaetten.org/de/werkstatt-suche)
 	- [Karte von Makerspaces, Hackerspaces und Fab Labs der Europäischen  Union](https://cop-demos.jrc.ec.europa.eu/navigator/eu-makerspaces-map)
 	- [Karte verschiedener Arten von Spaces und Labs von makery.info](https://www.makery.info/en/map-labs/)
 	- [Karte des Make-Magazins](https://maker-faire.de/makerspaces/)
