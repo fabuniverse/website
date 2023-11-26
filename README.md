@@ -56,11 +56,7 @@ Markdown ist eine vereinfachte Auszeichnungssprache, die es ermöglicht, Texte m
 
 #### Markdown-Beispiele
 
-- **Überschriften**: Mit `# ` können Überschriften erzeugt werden. Umso mehr `#` genutzt werden, desto kleiner wird die Überschrift. Die erste Überschrift ` Readme zum Arbeiten an/mit dieser Website` sieht in Markdown z.B. so aus `##  Readme zum Arbeiten an/mit dieser Website`.
-Weitere Beispiele der vorherigen Überschriften:
-`## Aufbau / Funktionsweise der Website`  
-`### Mkdocs & Markdown`   
-`#### Markdown-Beispiele`   
+- **Überschriften**: Mit `# ` können Überschriften erzeugt werden. Umso mehr `#` genutzt werden, desto kleiner wird die Überschrift. Die erste Überschrift `Readme zum Arbeiten an/mit dieser Website` sieht in Markdown z.B. so aus `##  Readme zum Arbeiten an/mit dieser Website`.
 
 - **Zeilenumbruch**: Zwei Leerzeichen am Ende einer Zeile erzeugen einen Zeilenumbruch.
 
@@ -68,7 +64,7 @@ Weitere Beispiele der vorherigen Überschriften:
 
 - **Listen**: Listen können mit `- ` (nicht nummerierte Listen) oder `1. ` (nummerierte Listen) zu Beginn eines jeden Listenpunktes erstellt werden.
 
-- **Links**: Dieser Link [Makerspace-Website](https://makerspace.ruhr-uni-bochum.de), der zu unserer Website führt, sieht in Markdown so aus: `[Makerspace-Website](https://makerspace.ruhr-uni-bochum.de)`. Also der Name des Links, der auf der Website erscheinen soll, in eckigen Klammern und die Link-Adresse direkt dahinter in runden Klammern.
+- **Links**: Dieser Link [FabUNI:verse-Website](https://fab-universe.de), der zu unserer Website führt, sieht in Markdown so aus: `[FabUNI:verse-Website](https://fab-universe.de)`. Also der Name des Links, der auf der Website erscheinen soll, in eckigen Klammern und die Link-Adresse direkt dahinter in runden Klammern.
 
 - **Markdown ignorieren**: Manchmal ist es notwendig, dass die Zeichen, die Markdown-technisch Dinge auslösen, dies nicht tun, da Ihr sie so anzeigen möchtet. Z.B beim Gendern mit `*` kann es vorgekommen, dass das Sternchen als kursiv-Marker verstanden wird. Dies könnt Ihr vermeiden, indem Ihr ein `\` vor andere Zeichen setzt. Also z.B. `Mitarbeiter\*innen` wird angezeigt als Mitarbeiter\*innen. Was wenn Ihr nun aber `\` als Zeichen braucht? Dann könnt Ihr das so lösen `\\`. Das wird angezeigt als \\.
 
