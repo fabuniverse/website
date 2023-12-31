@@ -71,7 +71,7 @@ plugins:
   - search
   - glightbox
   - table-reader:
-        data_path: "tabellen"  
+        data_path: "docs/tabellen"  
 
 extra_css:
   - 'stylesheets/extra.css'
