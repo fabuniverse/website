@@ -28,5 +28,6 @@ jobs:
       - run: pip install \
           mkdocs \
           mkdocs-material \
-          mkdocs-glightbox
+          mkdocs-glightbox \
+          mkdocs-table-reader-plugin
       - run: mkdocs gh-deploy --force
