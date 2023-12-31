@@ -19,4 +19,4 @@ Hier betten wir die [Karte des Verbunds offener Werkstätten](https://www.offene
 
 Diese Liste von Fab Labs und Makerspaces an Hochschulen in Deutschland wird sporadisch aktualisiert (zuletzt auf der Fab:UNIverse 2023), erhebt aber keinen Anspruch auf Vollständigkeit. 
 
-{{ read_csv('tabellen/lab-liste.csv') }}
+{{ read_csv('lab-liste.csv') }}
