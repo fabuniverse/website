@@ -38,7 +38,7 @@ nav:
     - 2018 - Siegen: '2018.md'
     - 2017 - Wildau: '2017.md'
     - Zu Fab:UNIverse beitragen: 'beitragen.md'
-    - Labs finden: 'karte.md'
+    - Labs finden: 'labs.md'
     - Links: 'links.md'    
     - Kontakt: 'kontakt.md'
     - Forum (intern): 'https://discourse.fab-universe.de'
@@ -70,6 +70,8 @@ markdown_extensions:
 plugins:
   - search
   - glightbox
+  - table-reader:
+        data_path: "tabellen"  
 
 extra_css:
   - 'stylesheets/extra.css'
