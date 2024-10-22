@@ -1,0 +1,20 @@
+:root {
+    --md-typeset-a-color: #ef5552;
+}
+
+[data-md-color-scheme="default"] {
+    --md-typeset-a-color: #ef5552;
+}
+
+.md-nav__item .md-nav__link--active {
+    --md-typeset-a-color: #ef5552;   
+}
+
+.md-typeset a {
+    text-decoration:underline;
+    color: #ef5552;
+}
+
+.md-nav__link:is(:focus, :hover) {
+    text-decoration:underline;
+}
