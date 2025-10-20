@@ -29,6 +29,7 @@ theme:
 
 nav:
     - Was ist Fab:UNIverse?: 'index.md'
+    - 2025 - Stuttgart: '2025.md'
     - 2024 - Erlangen-Nürnberg: '2024.md'
     - 2023 - Essen: '2023.md'
     - 2022 - Halle: '2022.md'
